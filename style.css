@@ -73,6 +73,9 @@ header {
     padding: 140px 0;
     text-align: center;
     color: white;
+    background-image: url("nairobi_city.png");
+    /* background-repeat: no-repeat;
+    background-size: auto; */
 }
 
 .hero-content h1 {
